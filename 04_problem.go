@@ -27,7 +27,7 @@ func checkIfPalindrome(currentString string) bool {
 }
 
 func main() {
-	fmt.Println("Welcome to Project Euler - Problem 3")
+	fmt.Println("Welcome to Project Euler - Problem 4")
 	largestPalindrome := 0
 	for a := 999; a > 99; a-- {
 		for b := 999; b > 99; b-- {
