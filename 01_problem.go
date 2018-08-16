@@ -14,7 +14,7 @@ func main() {
 		// fmt.Println(i)
 
 		if i%3 == 0 || i%5 == 0 {
-			fmt.Println(i)
+			//fmt.Println(i)
 			sum += i
 		}
 	}
